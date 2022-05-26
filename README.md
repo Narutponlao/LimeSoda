@@ -57,5 +57,5 @@ If you find this repo useful, please cite our paper.
   doi={10.1109/iSAI-NLP54397.2021.9678187}
 }
 </pre>
-# VA-BI-LSTMNLP
-# LimeSoda
+
+
